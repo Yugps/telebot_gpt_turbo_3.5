@@ -1,0 +1,3 @@
+python-dotenv
+aiogram # this ia a functionality that helps our code to connect with telegram
+openai
